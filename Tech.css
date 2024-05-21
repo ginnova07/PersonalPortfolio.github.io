@@ -1,0 +1,19 @@
+.paragraph {
+	text-align:center;
+	
+	
+}
+
+.Header {
+	color:red;
+	background-color:LemonChiffon;
+	text-align:center;
+}
+
+#ARMap {
+	height: "450"
+	width: 	"600" 
+	border-style:groove;
+	border: "100"
+
+}
